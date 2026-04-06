@@ -26,5 +26,5 @@ Yeni algoritmalar, iyileştirmeler ve görsel anlatımlar düzenli olarak eklene
 LinkedIn’deki seriyle paralel ilerler.
 Öneri, geri bildirim ve katkılara açıktır.  
 
- **LinkedIn:** *Her Güne 1 Yapay Zeka Algoritması*  
+ **LinkedIn:** *Her Haftaya 1 Yapay Zeka Algoritması*  
  **Amaç:** Anlamak → Anlatabilmek → Uygulayabilmek
