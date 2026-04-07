@@ -5,7 +5,7 @@ Bu repository, yapay zeka ve makine öğrenmesinin temelini oluşturan algoritma
 **sezgisel anlatım, Python kodları ve örneklerle** bir araya getiren bir çalışmadır.
 
 Bu repo, LinkedIn’de paylaşılan  
-**“Her Güne 1 Yapay Zeka Algoritması”** serisinin teknik karşılığı olarak hazırlanmıştır.
+**“Her Hafta 1 Yapay Zeka Algoritması”** serisinin teknik karşılığı olarak hazırlanmıştır.
 
 ---
 
