@@ -1,12 +1,13 @@
 # DFS (Depth-First Search) Algoritması
 
 ##  İçindekiler
-- [Giriş](#-giriş)
-- [DFS Nedir?](#-dfs-nedir)
-- [Adım Adım Örnek](#-adım-adım-örnek)
-- [Algoritmanın Temel Bileşenleri](#-algoritmanın-temel-bileşenleri)
-- [Karmaşıklık Analizi](#-karmaşıklık-analizi)
-- [DFS ne zaman tercih edilir ?](#-dfs-ne-zaman-terich-edilir)
+
+- [Giriş](#giriş)
+- [DFS Nedir?](#dfs-nedir)
+- [Adım Adım Örnek](#adım-adım-örnek)
+- [Algoritmanın Temel Bileşenleri](#algoritmanın-temel-bileşenleri)
+- [Karmaşıklık Analizi](#karmaşıklık-analizi)
+- [DFS Ne Zaman Tercih Edilir?](#dfs-ne-zaman-tercih-edilir)
 
 ---
 
