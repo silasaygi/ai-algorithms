@@ -88,7 +88,7 @@ def dfs_recursive(graph, node, visited=None):
     
     return visited
 
-# Örnek kullanım
+#### Örnek kullanım
 graph = {
     1: [2, 3],
     2: [4, 5],
