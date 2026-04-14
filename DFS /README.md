@@ -9,7 +9,6 @@
 - [Karmaşıklık Analizi](#karmaşıklık-analizi)
 - [DFS Ne Zaman Tercih Edilir?](#dfs-ne-zaman-tercih-edilir)
 - [Sonuç](#sonuç)
-- 
 ---
 
 ##  Giriş
