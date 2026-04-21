@@ -39,8 +39,7 @@ Bir grafın düğümler (nodes/vertices) ve kenarlardan (edges) oluştuğunu dü
 
 **En Kısa Yol Problemi:** Verilen bir başlangıç düğümünden, graftaki diğer tüm düğümlere ulaşmak için geçilmesi gereken **minimum toplam maliyetli yolu** bulmaktır.
 
-```
-
+---
 ## Dijkstra Nasıl Çalışır?
 
 Algoritmanın temel fikri son derece sezgiseldir:
