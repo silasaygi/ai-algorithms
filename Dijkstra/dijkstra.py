@@ -9,9 +9,6 @@
 #   Yapı     : Komşuluk listesi (adjacency list) + Min-Heap
 #   Modül    : heapq (Python standart kütüphanesi)
 #
-#   Yazar    : [Adınız]
-#   Tarih    : 2025
-#
 # ============================================================
 
 import heapq
