@@ -63,7 +63,7 @@ Adını New York'un ızgara şeklindeki sokak planından alır. Çapraz geçişi
 A\* soyut bir algoritma değil — gündelik hayatın içinde:
 
 -  **Navigasyon:** Google Haritalar ve GPS sistemleri, araç rotası hesaplarken A\*'a benzer algoritmalar kullanır
--  **Video Oyunları:** Oyun haritalarında NPC'lerin (oyuncu olmayan karakterlerin) engelleri aşarak hedefe ulaşması A\* ile sağlanır — *Age of Empires*, *StarCraft*, *The Sims*
+-  **Video Oyunları:** Oyun haritalarında NPC'lerin (oyuncu olmayan karakterlerin) engelleri aşarak hedefe ulaşması A\* ile sağlanır
 -  **Robotik:** Otonom robotlar ve insansız araçlar, fiziksel ortamda güvenli rota planlamak için A\*'ı temel alır
 -  **Lojistik ve Depo Yönetimi:** Amazon gibi şirketlerin depo robotları raflar arasındaki en verimli yolu A\* ile hesaplar
 -  **Yapay Zeka Bulmacaları:** 8-puzzle, 15-puzzle gibi klasik yapay zeka problemleri A\* ile çözülür
@@ -187,4 +187,4 @@ nereye gittiğini bilen bir yaklaşım çok daha değerlidir :)
 
 ---
 
-*Projeyi faydalı bulduysanız ⭐ vermeyi unutmayın — başkalarının keşfetmesine yardımcı olur.*
+*Projeyi faydalı bulduysanız ⭐ vermeyi unutmayın — destekleriniz için teşekkür ediyorum.*
