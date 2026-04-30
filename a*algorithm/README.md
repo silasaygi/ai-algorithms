@@ -1,4 +1,4 @@
-#  Python ile A* (A-Star) Algoritması
+#  A* (A-Star) Algoritması
 
 > *"En kısa yol her zaman en akıllı yol değildir. Ama en akıllı yol çoğunlukla en kısadır."*
 
@@ -14,7 +14,7 @@ Düz bir hesapla tüm yolları denemek saatler alır. İnsan sezgisiyle gitmek i
 
 ---
 
-##  A\* Algoritması Nedir?
+##  A* Algoritması Nedir?
 
 A\* (okunuşu: "A yıldız"), bir **graf arama algoritmasıdır.** İki nokta arasındaki en uygun yolu bulmak için tasarlanmıştır.
 
