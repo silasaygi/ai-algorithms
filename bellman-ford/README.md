@@ -1,10 +1,10 @@
-# 🔍 Bellman-Ford Algoritması
+#  Bellman-Ford Algoritması
 
 > *Negatif ağırlıklı grafiklerde en kısa yolu bulan, döngüleri tespit eden klasik bir algoritma.*
 
 ---
 
-## 📌 İçindekiler
+##  İçindekiler
 
 1. [Giriş](#1-giriş)
 2. [Neden Bellman-Ford?](#2-neden-bellman-ford)
